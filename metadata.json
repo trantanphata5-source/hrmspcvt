@@ -1,0 +1,5 @@
+{
+  "name": "PCVT HR Management",
+  "description": "Quản lý nhân sự PCVT với dữ liệu từ Google Sheets",
+  "requestFramePermissions": []
+}
